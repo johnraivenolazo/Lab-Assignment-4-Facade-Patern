@@ -2,7 +2,7 @@
 
 ## UML Diagram
 
-![Hotel Management System UML](./uml-diagram.png)
+![Hotel Management System UML](./UML-DIAGRAM.png)
 
 ## Overview
 
