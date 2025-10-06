@@ -1,5 +1,9 @@
 # Simplified Hotel Management System
 
+## UML Diagram
+
+![Hotel Management System UML](./uml-diagram.png)
+
 ## Overview
 
 The `HotelApp` needs to manage various hotel services for guest check-in and check-out. These services include:
